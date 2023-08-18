@@ -13,6 +13,8 @@ conda install pandas-datareader
 pip install requests-cache
 or
 conda install -c conda-forge requests-cache
+
+conda install openpyxl
 ```
 
 
