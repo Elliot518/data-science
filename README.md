@@ -14,7 +14,13 @@ pip install requests-cache
 or
 conda install -c conda-forge requests-cache
 
+pip install openpyxl
+or
 conda install openpyxl
+
+pip install pandas
+or
+conda install pandas
 ```
 
 
