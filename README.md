@@ -21,6 +21,10 @@ conda install openpyxl
 pip install pandas
 or
 conda install pandas
+
+pip install plotly
+or
+conda install plotly
 ```
 
 
